@@ -58,6 +58,6 @@
             "price": 150,
             "img": "image/tiramisu.png",
             "type_id": 3
-        },
+        }
     ]
 }
